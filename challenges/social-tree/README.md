@@ -3,7 +3,7 @@ Desafio criado pela Rocketseat para assinantes gratuitos do [site da Rocketseat]
 ## Sobre o desafio
 Neste desafio é necessário criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
-> Essa foi a página que eu criei: [Social Tree](misterioso013.github.io/challenges/social-tree/)
+> Essa foi a página que eu criei: [Social Tree](https://misterioso013.github.io/5-days-of-frontend/challenges/social-tree/)
 
 ## Layout
 Essa é a página que deve ser criada:
