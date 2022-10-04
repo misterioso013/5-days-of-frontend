@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coming Soon</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1 class="title">Ready to launch in...</h1>
+          <div class="countdown">
+            <div class="countdown__item">
+              <div class="countdown__time" id="days">00</div>
+              <div class="countdown__text">Days</div>
+            </div>
+            <div class="countdown__item">
+              <div class="countdown__time" id="hours">00</div>
+              <div class="countdown__text">Hours</div>
+            </div>
+            <div class="countdown__item">
+              <div class="countdown__time" id="minutes">00</div>
+              <div class="countdown__text">Minutes</div>
+            </div>
+            <div class="countdown__item">
+              <div class="countdown__time" id="seconds">00</div>
+              <div class="countdown__text">Seconds</div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="logo">
+            <img src="./images/rocket.svg" alt="logo" class="logo__image" />
+          </div>
+        </div>
+      </div>
+
+      <div class="call__to__action">
+        <p class="call__to__action__text">
+          Subscribe to our newsletter to get notified when we launch!
+        </p>
+        <button class="btn">Subscribe</button>
+      </div>
+
+      <div class="subscribe__modal">
+        <div class="subscribe__close">
+          <img src="https://img.icons8.com/ios/50/000000/multiply.png" />
+        </div>
+        <h3 class="subscribe__title">Subscribe now</h3>
+
+        <form action="#" class="subscribe__form">
+          <input
+            type="email"
+            name="email"
+            class="subscribe__input"
+            placeholder="Enter your email"
+            required
+          />
+          <button class="subscribe__button">Subscribe</button>
+      </div>
+    </div>
+    <div class="modal__background"></div>
+    <script src="./js/script.js"></script>
+  </body>
+</html>
