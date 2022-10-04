@@ -3,7 +3,7 @@ Desafio criado pela Rocketseat para assinantes gratuitos do [site da Rocketseat]
 
 ## Sobre o desafio
 Esse projeto é um contador regressivo para um evento ou lançamento. O objetivo é criar um contador regressivo responsivo e pronto para ser usado em qualquer projeto (apenas o front-end foi criado).
-> Essa foi a página que eu criei: [Countdown Coming Soon](misterioso013.github.io/challenges/countdown-timer/)
+> Essa foi a página que eu criei: [Countdown Coming Soon](https://misterioso013.github.io/5-days-of-frontend/challenges/countdown-timer/)
 
 ## Layout
 O layout da aplicação está disponível no Figma: [Layout Web](https://www.figma.com/file/oDZqw3v8fem3v3RC7bTKV5/DD-%2F-Countdown/duplicate)
