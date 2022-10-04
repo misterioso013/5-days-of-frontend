@@ -7,3 +7,6 @@ Todos os projetos serão feitos com HTML, CSS e JavaScript puro, sem frameworks 
 ## Dia 1
 - [x] [Social Tree](/challenges/social-tree/README.md) - Esse projeto é uma página de links sociais, com um design simples e clean.
 - [x] [Countdown coming soon](/challenges/countdown-timer/README.md) - Esse projeto é um contador regressivo para um evento, com um design simples e clean.
+
+## Dia 2
+- [x] [RocketNews](/challenges/rocketnews/README.md) - Esse projeto é uma página para captação de leads ou newsletter.
